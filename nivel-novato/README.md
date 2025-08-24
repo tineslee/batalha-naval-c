@@ -1,4 +1,4 @@
-# 🥉 Nível Novato — Batalha Naval
+# Nível Novato — Batalha Naval
 
 Neste nível, o objetivo é posicionar dois navios manualmente em um tabuleiro 5x5:
 
@@ -7,12 +7,12 @@ Neste nível, o objetivo é posicionar dois navios manualmente em um tabuleiro 5
 
 O programa exibe as coordenadas de cada parte dos navios usando `printf`.
 
-## 🔧 Tecnologias
+## Tecnologias
 - Linguagem C
 - Vetores bidimensionais
 - Estrutura de repetição
 
-## 📌 Execução
+## Execução
 ```bash
 gcc main.c -o novato
 ./novato
